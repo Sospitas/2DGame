@@ -1,0 +1,14 @@
+{
+    "types": [
+        {
+            "Name": "Melee",
+            "Health": 5,
+            "Damage": 1
+        },
+        {
+            "Name": "Ranged",
+            "Health": 2,
+            "Damage": 2
+        }
+    ]
+}
